@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Piramu%20Chendu%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Piramu%20Chendu%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=18&animation=fadeIn)
 
 </div>
 
@@ -16,23 +16,33 @@
 
 <br/>
 
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ## 👩‍💻 About Me
 
 ```typescript
-const piramu = {
-  name: "Piramu Chendu S",
-  role: "Frontend Developer",
-  location: "India 🇮🇳",
-  learning: ["React JS", "Node JS", "AWS", "MongoDB"],
-  passion: "Building beautiful, functional web experiences",
-  contact: "2005chendu@gmail.com",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+const piramu: Developer = {
+  name        : "Piramu Chendu S",
+  role        : "Full Stack Developer",
+  location    : "Tamil Nadu, India 🇮🇳",
+  education   : "B.E. Computer Science Engineering",
+  skills      : ["React JS", "Node JS", "AWS", "MongoDB"],
+  interests   : ["Web Development", "Cloud Computing",
+                 "Data Analytics", "UI/UX Design"],
+  currentFocus: "Building scalable full-stack applications",
+  contact     : "2005chendu@gmail.com",
+  available   : true  // Open to opportunities!
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="280" alt="Girl coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,7 +81,6 @@ const piramu = {
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ### 📊 Data & Analytics
@@ -135,7 +144,11 @@ const piramu = {
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+> *"The best error message is the one that never shows up."*
+> 
+> — **Thomas Fuchs**
+
 </div>
 
 <br/>
